@@ -228,7 +228,6 @@ Para uso em repositório público no GitHub, a recomendação é utilizar a lice
 
 - Andersom Gabriel
 - Jorge David Bolognesi
-- Professor André Fabiano de Moraes
 
 ## 21. Status do Projeto
 
